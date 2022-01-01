@@ -3,3 +3,5 @@ PopularHashtags.scala: This program prints the most popular hashtags from twitte
 StructuredStreaming.scala: This program prints the statuses along with count of each status from access_log.txt file using structured streaming. 
 
 TopURL.scala: This program streams the top urls in past 30 seconds with a sliding window of 10 seconds.
+
+StreamingKMeans.scala:  
