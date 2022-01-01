@@ -4,4 +4,4 @@ StructuredStreaming.scala: This program prints the statuses along with count of 
 
 TopURL.scala: This program streams the top urls in past 30 seconds with a sliding window of 10 seconds.
 
-StreamingKMeans.scala:  
+StreamingKMeans.scala: This program takes income and age of all individuals as training data and uses K means clustering to cluster the data into 5 clusters.
